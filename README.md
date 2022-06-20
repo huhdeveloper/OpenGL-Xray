@@ -1,4 +1,4 @@
-1. Open opengl cavefinder.sln
+1. Open opengl cavefinder.sln 31
 
 2. Edit include library
 
